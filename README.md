@@ -4,7 +4,7 @@
   - plotting a bar chart for gender vs total amount
    
 2. AGE
-   I have plot graph of Total Amount vs Age Group
+  -I have plot graph of Total Amount vs Age Group
 
 3.STATES
    -total number of orders from top 10 states
