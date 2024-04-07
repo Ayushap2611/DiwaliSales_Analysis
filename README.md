@@ -2,7 +2,7 @@
 1.GENDER
   - We have plotting a bar chart for Gender and it's count
   - plotting a bar chart for gender vs total amount
-   
+
 2. AGE
   -I have plot graph of Total Amount vs Age Group
 
