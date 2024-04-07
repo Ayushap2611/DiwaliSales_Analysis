@@ -1,4 +1,12 @@
-# DiwaliSales_Analysis 
+# DiwaliSales_Analysis Project Learnings
+
+Performed data cleaning and manipulation
+
+Performed exploratory data analysis (EDA) using pandas, matplotlib and seaborn libraries
+
+Improved customer experience by identifying potential customers across different states, occupation, gender and age groups
+
+Improved sales by identifying most selling product categories and products, which can help to plan inventory and hence meet the demands
 1.GENDER
   - We have plotting a bar chart for Gender and it's count
   - plotting a bar chart for gender vs total amount
